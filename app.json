@@ -7,24 +7,24 @@
   "app_url": "/qr/",
   "stack":"container",
   "env": {
-    "OWNER_NAME": {
+    "OWNER_NAME": { "suhail ser"
       "description": "Name for Bot Owner",    
       "value": "Suhail Ser",
       "required" :true
     },   
      
-    "CAN_WELCOME": {
+    "CAN_WELCOME": { "true"
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
       "value": "true",
       "required" :false
     },
      
-    "CAN_GOODBYE": {
+    "CAN_GOODBYE": { "false"
       "description": "put 'false' or 'true' to enable & disable GOODBYE ",
       "value": "false",
       "required" :false
     },
-    "BOT_NAME": {
+    "BOT_NAME": { "suhail"
       "description": " NAME FOR BOT",
       "required" :false,    
       "value": "sᴜʜᴀɪʟ-ᴍᴅ"
