@@ -1,0 +1,13 @@
+# Exported from Render on 2024-06-18T13:50:47Z
+services:
+- type: web
+  name: Suhail-Md
+  runtime: static
+  repo: https://github.com/Ie-u/Suhail-Md
+  envVars:
+  - key: -app
+    sync: false
+  buildCommand: go build - bot app
+  staticPublishPath: ./build/Suhail-Md
+  pullRequestPreviewsEnabled: true
+version: "1"
