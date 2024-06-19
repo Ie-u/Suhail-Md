@@ -44,13 +44,13 @@
       "required" :false,    
       "value": "3"
     },
-    "HEROKU_API_KEY": {
-      "description": "Put Your Heroku Api Key Here",
+    "RENDER_API_KEY": { "rnd_GytPhay0JzAEyKc0Gb9ETmJdv8re"
+      "description": "Put Your Render Api Key Here",
       "value": "",
       "required" :true 
     },   
-    "HEROKU_APP_NAME": {
-      "description": "Put Your Heroku App Name Here",
+    "RENDER_APP_NAME": { "Jazzy Casi"
+      "description": "Put Your Render App Name Here",
       "value": "",
     "required" :true
     }, 
